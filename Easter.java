@@ -1,6 +1,6 @@
-// Your Name
+// Matteo Thomasson
 // Date: 9/8/2026
-// This program will calculate the date Easter falls on given a year after 1583.
+// This program will calculate the date Easter falls on given a year.
 
 import java.util.*;
 
